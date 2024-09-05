@@ -1,2 +1,1 @@
-# used-car-price-linear-regression
-Linear Regression Practice Notebook
+All ML practice notebooks & analysis are found here
